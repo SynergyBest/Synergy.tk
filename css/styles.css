@@ -1,4 +1,12 @@
-     #CenterElements
+/* Copyright (C) 2020 Theodore Robinson - All Rights Reserved
+* You may use, distribute and modify this code under the
+* terms of the MIT license.
+*
+* You should have received a copy of the MIT license with
+* this file, if not please visit: https://opensource.org/licenses/mit
+*/
+/* Credits to Synergy @ SynergyDev.tk */
+#CenterElements
          {
          position: absolute;
          transform: translate(-50%, -50%);
